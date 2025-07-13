@@ -29,6 +29,7 @@ This project demonstrates a simple Automatic Night Lamp using an Arduino UNO, an
 
 ## 💡 Arduino Code
 The Arduino sketch for this project is saved in the file:
+
 📂 `Automatic_Night_Lamp.ino`
 
 ## 📸 Demonstration Snapshot:
