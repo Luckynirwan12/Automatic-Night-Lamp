@@ -27,5 +27,9 @@ This project demonstrates a simple Automatic Night Lamp using an Arduino UNO, an
 
 - When it is bright, the LED remains OFF.
 
+## 💡 Arduino Code
+The Arduino sketch for this project is saved in the file:
+📂 `Automatic_Night_Lamp.ino`
+
 ## 📸 Demonstration Snapshot:
 <img width="1414" height="754" alt="image" src="https://github.com/user-attachments/assets/e8c60d9c-c9a4-4e77-b840-b60c6f7eba8d" />
